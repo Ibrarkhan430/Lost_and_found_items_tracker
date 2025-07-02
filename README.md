@@ -27,4 +27,3 @@ Built using HTML, CSS, JavaScript (Frontend), PHP (Backend), and MySQL (Database
 - *Email System:* PHPMailer or PHP mail() function
 - *Image Upload:* PHP file upload system with validations
 - *Server:* WAMP (Windows Apache MySQL PHP)
-

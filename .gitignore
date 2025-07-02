@@ -3,7 +3,7 @@
 
 # Ignore sensitive database/config folders
 /db/
-/includes/
+includes/
 
 # Ignore composer files (optional if using composer)
 composer.lock
@@ -24,4 +24,4 @@ Thumbs.db
 
 # Ignore SQL dump files (optional)
 *.sql
-*.sql.zip 
+*.sql.zip
