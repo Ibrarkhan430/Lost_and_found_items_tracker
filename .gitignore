@@ -1,0 +1,27 @@
+# Ignore uploaded files
+/uploads/
+
+# Ignore sensitive database/config folders
+/db/
+/includes/
+
+# Ignore composer files (optional if using composer)
+composer.lock
+vendor/
+composer/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Ignore IDE/editor settings
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.idea/
+
+# Ignore SQL dump files (optional)
+*.sql
+*.sql.zip 
